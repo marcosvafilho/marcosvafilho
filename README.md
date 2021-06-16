@@ -1,6 +1,6 @@
 # Hey, I'm Marcos 👋
 
-A curious, self-taught, software developer from Brazil. 
+A curious, self-taught, software developer from Rio de Janeiro - Brazil (UTC-3). 
 
 ### Get in touch
 
