@@ -1,6 +1,6 @@
 # Hey, I'm Marcos 👋
 
-A curious, self-taught, software developer from Rio de Janeiro - Brazil (UTC-3). 
+A curious, self-taught, skilled software (and product) developer from Rio de Janeiro, Brazil (UTC-3). Building and deploying stuff from scratch since 2011.
 
 ### Get in touch
 
